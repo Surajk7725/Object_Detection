@@ -6,5 +6,6 @@ Please visit the website to download both the weights (by left-clicking on **Ope
 
 Website:-https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
 
-![python (1)](https://github.com/Surajk7725/Object_Detection/assets/114910241/9cfae6d3-3ae7-427e-b7be-c1a885295fc2)
+![Object_Detection](https://github.com/Surajk7725/Object_Detection/assets/114910241/a60d39c9-7b6e-4bd4-bc0f-9eefacb26095)
+
 
